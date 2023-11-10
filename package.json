@@ -1,0 +1,28 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "react app creation",
+  "main": "App.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NamasteReact"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "nitu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
